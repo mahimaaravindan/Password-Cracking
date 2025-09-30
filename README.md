@@ -1,2 +1,1 @@
-# Password-Cracking
-Kali password-strength evaluation toolkit — generate passwords, test strength, simulate attacks, and produce an analysis report.
+This repository provides a lightweight, hands-on toolkit for evaluating password strength and understanding common password attacks using Kali Linux. It contains scripts and examples to generate password lists with varying complexity, run local strength checks (cracklib, John the Ripper), simulate dictionary and brute-force attacks in a safe lab environment, log tool output, and produce a summary report with best practices. Designed for learning and defensive testing only — do not use against third-party systems.
